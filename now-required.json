@@ -1,0 +1,5 @@
+{
+  "ACCESS_ALLOW_ORIGIN": "*",
+  "API_TOKEN": "@api-token",
+  "CAMPAIGN_ID": "@campaign-id"
+}
